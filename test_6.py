@@ -12,5 +12,5 @@ def url():
 def test_valid_login(url):
     username = password = 'admin'
     response = requests.get(url, stream=True)
+    # this website returns 401 when login is successful
     assert response.status_code == 401
-    
