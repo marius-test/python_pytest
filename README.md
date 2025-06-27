@@ -13,6 +13,10 @@ This repository contains example test cases demonstrating various PyTest feature
 - Skipping tests
 - Testing HTTP requests with authentication
 
+## Purpose
+
+I created this repository to deepen my understanding of **PyTest** by exploring its core features through hands-on examples.
+
 ## Setup
 
 Install PyTest via pip if you haven't already:
@@ -20,7 +24,3 @@ Install PyTest via pip if you haven't already:
 ```bash
 pip install pytest
 ```
-
-## Purpose
-
-I created this repository to deepen my understanding of **PyTest** by exploring its core features through hands-on examples.
