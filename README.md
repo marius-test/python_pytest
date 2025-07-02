@@ -2,10 +2,9 @@
 
 **PyTest** demonstration using **Python**
 
-## Overview
+### Overview
 
 This repository contains example test cases demonstrating various PyTest features, including:
-
 - Basic assertions
 - Test grouping with markers
 - Fixtures for setup and teardown
@@ -13,11 +12,11 @@ This repository contains example test cases demonstrating various PyTest feature
 - Skipping tests
 - Testing HTTP requests with authentication
 
-## Purpose
+### Purpose
 
 I created this repository to deepen my understanding of **PyTest** by exploring its core features through hands-on examples.
 
-## Setup
+### Setup
 
 Install PyTest via pip if you haven't already:
 
